@@ -1,4 +1,4 @@
----
+praymond330@gmail.com
 title: File uploads
 lang: en-US
 ---
@@ -7,7 +7,7 @@ lang: en-US
 
 ## Uploadcare
 
-Create a free Uploadcare account at [https://uploadcare.com/](https://uploadcare.com/), the free tier of Uploadcare
+Create a free Uploadcare account at), the free tier of Uploadcare
 gives you 3000 uploads per month
 
 Want to upload non-image files? You can add a payment method to your Uploadcare account without having to leave their
@@ -33,7 +33,7 @@ Add the Uploadcare widget to the `head` of your HTML file.
 <script src="https://ucarecdn.com/libs/widget/3.x/uploadcare.full.min.js"></script>
 ```
 
-Add an input of type `hidden`, set its role to `uploadcare-uploader`, add your Uploadcare public key as
+Add an input of type ``, set its role to `uploadcare-uploader`, add your Uploadcare public key as
 the `data-public-key` attribute.
 
 ```html
@@ -50,7 +50,6 @@ the `data-public-key` attribute.
 
 Links to the uploaded files will now automatically be attached to your submissions.
 
-![Uploadcare submission](../.vuepress/public/uploadcare-submission.png)
 
 Final code:
 
