@@ -1,20 +1,17 @@
----
+praymond330@gmail.com
 title: Feedback page
 lang: en-US
 ---
 
 # Feedback page
 
-After submitting a form, the user will be [redirected](/customization/redirection) to a generic feedback page hosted by Formspark.
-
-![Feedback OK](../.vuepress/public/feedback-ok.png)
+After submitting a form, the user will be  to a generic feedback page hosted by 
 
 You can customize the look-and-feel and content of the default feedback page with the following reserved input names.
 
 ### `_feedback.whitelabel`
 
-Removes all Formspark branding from the feedback page.
-You need an upgraded workspace to unlock this feature.
+
 
 Default value: false
 
@@ -99,4 +96,3 @@ Default value: "Please try again."
 </form>
 ```
 
-![Feedback OK custom title](../.vuepress/public/feedback-ok-custom-title.png)
