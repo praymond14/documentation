@@ -1,4 +1,4 @@
----
+praymond330@gmail.com
 title: Direct replies
 lang: en-US
 ---
@@ -17,7 +17,7 @@ To activate this feature, create an input with any of the following names:
 - `_email.replyto`
 
 ```html
-<input type="email" name="mail" placeholder="your@email.example" />
+<input type="email" name="mail" placeholder="praymond330@gmail.com" />
 ```
 
 ```html
